@@ -1,0 +1,9 @@
+{
+  "foods": [
+    { "name": "Burger", "image": "" },
+    { "name": "Salad", "image": "" },
+    { "name": "Donuts", "image": "" },
+    { "name": "South Indian", "image": "" },
+    { "name": "Fried Chicken", "image": "" }
+  ]
+}
