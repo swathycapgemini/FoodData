@@ -14,7 +14,7 @@
       "bestSellingItems": "Iberian pig, Olive oil bonbon",
       "rating": "4.8",
       "priceRange": "300 - 600 EUR",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/2.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/2.jpeg?raw=true"
     },
     {
       "name": "Noma",
@@ -22,7 +22,7 @@
       "bestSellingItems": "Monkfish liver, Violet dessert",
       "rating": "4.6",
       "priceRange": "350 - 700 DKK",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/3.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/3.jpeg?raw=true"
     },
     {
       "name": "Osteria Francescana",
@@ -30,7 +30,7 @@
       "bestSellingItems": "Parmigiano Reggiano, Eel Po River",
       "rating": "4.7",
       "priceRange": "200 - 500 EUR",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/4.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/4.jpeg?raw=true"
     },
     {
       "name": "Mirazur",
@@ -38,7 +38,7 @@
       "bestSellingItems": "Salt-crusted beetroot, Blue lobster",
       "rating": "4.9",
       "priceRange": "400 - 800 EUR",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/5.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/5.jpeg?raw=true"
     },
     {
       "name": "Gaggan",
@@ -46,7 +46,7 @@
       "bestSellingItems": "Lick it up",
       "rating": "4.4",
       "priceRange": "200 - 400 USD",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/6.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/6.jpeg?raw=true"
     },
     {
       "name": "Central",
@@ -54,7 +54,7 @@
       "bestSellingItems": "Altitude ceviche, Rainbow trout",
       "rating": "4.7",
       "priceRange": "250 - 500 PEN",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/7.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/7.jpeg?raw=true"
     },
     {
       "name": "Eleven Madison Park",
@@ -62,7 +62,7 @@
       "bestSellingItems": "Foie gras, Lavender duck",
       "rating": "4.8",
       "priceRange": "300 - 600 USD",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/8.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/8.jpeg?raw=true"
     },
     {
       "name": "D.O.M.",
@@ -70,7 +70,7 @@
       "bestSellingItems": "Tucupi, Palm fettuccine",
       "rating": "4.6",
       "priceRange": "200 - 400 BRL",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/9.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/9.jpeg?raw=true"
     },
     {
       "name": "Attica",
@@ -78,7 +78,7 @@
       "bestSellingItems": "Potato, Red kangaroo",
       "rating": "4.5",
       "priceRange": "250 - 550 AUD",
-      "image": "https://github.com/swathycapgemini/FoodData/blob/main/10.jpeg?raw=true",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/10.jpeg?raw=true"
     }
   ]
 }
