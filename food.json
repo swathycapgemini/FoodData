@@ -1,9 +1,9 @@
 {
   "foods": [
-    { "name": "Burger", "image": "" },
-    { "name": "Salad", "image": "" },
-    { "name": "Donuts", "image": "" },
-    { "name": "South Indian", "image": "" },
-    { "name": "Fried Chicken", "image": "" }
+    { "name": "Burger", "image": "https://github.com/swathycapgemini/FoodData/blob/main/f1.jpeg?raw=true" },
+    { "name": "Salad", "image": "https://github.com/swathycapgemini/FoodData/blob/main/f3.jpeg?raw=true" },
+    { "name": "Donuts", "image": "https://github.com/swathycapgemini/FoodData/blob/main/f2.jpeg?raw=true" },
+    { "name": "South Indian", "image": "https://github.com/swathycapgemini/FoodData/blob/main/f4.jpeg?raw=true" },
+    { "name": "Fried Chicken", "image": "https://github.com/swathycapgemini/FoodData/blob/main/f5.jpeg?raw=true" }
   ]
 }
