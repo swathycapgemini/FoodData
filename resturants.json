@@ -5,70 +5,80 @@
       "description": "The Fat Duck is a Michelin-starred restaurant in Bray, Berkshire, England. It is known for its innovative, multi-sensory approach to cooking and dining.",
       "bestSellingItems": "Snail Porridge, Mock Turtle Soup",
       "rating": "4.5",
-      "priceRange": "250 - 550 GBP"
+      "priceRange": "250 - 550 GBP",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/1.jpeg?raw=true"
     },
     {
       "name": "El Celler de Can Roca",
       "description": "El Celler de Can Roca is a three-Michelin-star restaurant in Girona, Catalonia, Spain. It is known for its creative and avant-garde cuisine.",
       "bestSellingItems": "Iberian pig, Olive oil bonbon",
       "rating": "4.8",
-      "priceRange": "300 - 600 EUR"
+      "priceRange": "300 - 600 EUR",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/2.jpeg?raw=true",
     },
     {
       "name": "Noma",
       "description": "Noma is a two-Michelin-star restaurant in Copenhagen, Denmark. It is known for its focus on foraging and using local and seasonal ingredients.",
       "bestSellingItems": "Monkfish liver, Violet dessert",
       "rating": "4.6",
-      "priceRange": "350 - 700 DKK"
+      "priceRange": "350 - 700 DKK",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/3.jpeg?raw=true",
     },
     {
       "name": "Osteria Francescana",
       "description": "Osteria Francescana is a three-Michelin-star restaurant in Modena, Italy. It is known for its contemporary Italian cuisine.",
       "bestSellingItems": "Parmigiano Reggiano, Eel Po River",
       "rating": "4.7",
-      "priceRange": "200 - 500 EUR"
+      "priceRange": "200 - 500 EUR",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/4.jpeg?raw=true",
     },
     {
       "name": "Mirazur",
       "description": "Mirazur is a three-Michelin-star restaurant in Menton, France. It is known for its inventive dishes that reflect the restaurant's location overlooking the Mediterranean Sea.",
       "bestSellingItems": "Salt-crusted beetroot, Blue lobster",
       "rating": "4.9",
-      "priceRange": "400 - 800 EUR"
+      "priceRange": "400 - 800 EUR",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/5.jpeg?raw=true",
     },
     {
       "name": "Gaggan",
       "description": "Gaggan is a Michelin-starred restaurant in Bangkok, Thailand. It is known for its progressive Indian cuisine.",
       "bestSellingItems": "Lick it up",
       "rating": "4.4",
-      "priceRange": "200 - 400 USD"
+      "priceRange": "200 - 400 USD",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/6.jpeg?raw=true",
     },
     {
       "name": "Central",
       "description": "Central is a restaurant in Lima, Peru, run by chef Virgilio Martínez. It is known for its innovative use of Peruvian ingredients and its focus on biodiversity.",
       "bestSellingItems": "Altitude ceviche, Rainbow trout",
       "rating": "4.7",
-      "priceRange": "250 - 500 PEN"
+      "priceRange": "250 - 500 PEN",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/7.jpeg?raw=true",
     },
     {
       "name": "Eleven Madison Park",
       "description": "Eleven Madison Park is a three-Michelin-star restaurant in New York City, USA. It is known for its contemporary American cuisine.",
       "bestSellingItems": "Foie gras, Lavender duck",
       "rating": "4.8",
-      "priceRange": "300 - 600 USD"
+      "priceRange": "300 - 600 USD",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/8.jpeg?raw=true",
     },
     {
       "name": "D.O.M.",
       "description": "D.O.M. is a two-Michelin-star restaurant in São Paulo, Brazil. It is known for its modern Brazilian cuisine.",
       "bestSellingItems": "Tucupi, Palm fettuccine",
       "rating": "4.6",
-      "priceRange": "200 - 400 BRL"
+      "priceRange": "200 - 400 BRL",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/9.jpeg?raw=true",
     },
     {
       "name": "Attica",
       "description": "Attica is a restaurant in Melbourne, Australia, run by chef Ben Shewry. It is known for its innovative and seasonal tasting menus.",
       "bestSellingItems": "Potato, Red kangaroo",
       "rating": "4.5",
-      "priceRange": "250 - 550 AUD"
+      "priceRange": "250 - 550 AUD",
+      "image": "https://github.com/swathycapgemini/FoodData/blob/main/10.jpeg?raw=true",
     }
   ]
 }
